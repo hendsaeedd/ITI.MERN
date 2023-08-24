@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+
+/* .movies{
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 0;
+  grid-gap: 20px;
+
+}
+img{
+  width: 120px;
+  height: 150px;
+}
+h3{
+  font-size: 1.2rem;
+  margin: 5px 0;
+}
+p{
+  font-size: 0.8rem;
+  margin: 5px 0;
+}
+.movies{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+  padding: 20px;
+
+}
+button{
+  background-color: #f44336;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px;
+  cursor: pointer;
+  border-radius:10px;
+}
+nav ul{
+  background-color: #1e1e1e;
+  display: flex;
+  padding: 10px;
+  justify-content: space-around;
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  color: #f44336;
+} */

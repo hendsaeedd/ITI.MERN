@@ -1,0 +1,14 @@
+{
+  "name": "iti-day-6",
+  "version": "1.0.0",
+  "description": "iti mern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hend",
+  "license": "ISC",
+  "dependencies": {
+    "express-validator": "^7.0.1"
+  }
+}
