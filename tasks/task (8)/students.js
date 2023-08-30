@@ -45,7 +45,7 @@ db.student.insert({
 
 // db.student.find({ FirstName: "Ahmed", LastName: "Ali" });
 
-// db.student.update({ FirstName: "Hend" }, { $set: { LastName: "Mohamed" } });
+// db.student.updateOne({ FirstName: "Hend" }, { $set: { LastName: "Mohamed" } });
 
 // db.student.deleteOne({ IsFired: true });
 
