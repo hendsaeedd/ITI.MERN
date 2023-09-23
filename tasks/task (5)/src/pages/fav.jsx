@@ -12,7 +12,7 @@ const Fav = ({ favoriteMovies }) => {
             <img
               src={`https://image.tmdb.org/t/p/w500/${movie.poster_path}`}
               alt={movie.title}
-              className="w-full rounded-lg mb-2"
+              className="w-full rounded-md mb-2"
             />
             <p className="text-gray-300">{movie.overview}</p>
           </li>
