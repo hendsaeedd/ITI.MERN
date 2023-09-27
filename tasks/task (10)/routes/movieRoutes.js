@@ -21,7 +21,7 @@ router.post('/movies', async (req, res) => {
 })
 
 //update movie
-router.put('/movies/:title', async (req, res) => {
+router.patch('/movies/:title', async (req, res) => {
   const movie = await Movie.updateOne({title: req.params.title}, req.body)
   res.json(movie)
   res.send('movie updated')
